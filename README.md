@@ -159,7 +159,7 @@
   <header>
     <h1>Abinaya S</h1>
     <img src="https://avatars.githubusercontent.com/u/186363000?s=96&v=4" alt="Profile image of Abinaya S" class="profile-img" />
-    <p class="typing">Aspiring Software Developer | Tech Explorer</p>
+    <p class="typing">Aspiring Software Developer</p>
   </header>
 
   <section id="about">
